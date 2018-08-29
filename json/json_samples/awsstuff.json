@@ -1,0 +1,46 @@
+{
+  "Region": {
+    "us-east-1": {
+      "vpcs": [
+        {"vpcid": "vpc-8348sl4b",
+         "vpcname": "Favorite VPC"},
+        {"vpcid": "vpc-e34t10dd",
+         "vpcname": "Broken VPC"},
+        {"vpcid": "vpc-67wc7f86",
+         "vpcname": "cat-prod-east-green-01"},
+        {"vpcid": "vpc-t3d476a1",
+         "vpcname": "cat-production-east-blue"}
+      ],
+      "kittycatsg": "sg-0jw0405wl2fe07faf"
+    },
+    "us-east-2": {
+      "vpcs": [
+        {"vpcid": "vpc-c475edab",
+         "vpcname": "Kitty Litter East2"}
+      ],
+      "kittycatsg": "sg-057a56f292d0c39bc"
+    },
+    "us-west-1": {
+      "vpcs": [
+        {"vpcid": "vpc-m48aa0c2",
+         "vpcname": "DataCenterVPC"}
+      ],
+      "kittycatsg": "sg-9d9d0db664d13746e"
+    },
+    "us-west-2": {
+      "vpcs": [
+        {"vpcid": "vpc-95692902",
+         "vpcname": "Favorite VPC"},
+        {"vpcid": "vpc-c847ccb4",
+         "vpcname": "Broken VPC"},
+        {"vpcid": "vpc-29c45b50",
+         "vpcname": "hg-prod-west-green-01-ucms"},
+        {"vpcid": "vpc-4bc06h4g",
+         "vpcname": "cat-production-west-blue"},
+        {"vpcid": "vpc-8825ggfc",
+         "vpcname": "cat-production-west-green"}
+      ],
+      "kittycatsg": "sg-2g4d6a53"
+    }
+  }
+}

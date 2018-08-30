@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 import json
 from pprint import pprint
 from os.path import dirname, realpath
